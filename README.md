@@ -5,12 +5,12 @@
 ## This repository contains few of the important Python Package usage examples.
 
 -------------------------------
->1. Numpy
+>1. **Numpy**
  
 - Numpy.ipynb
 
 -------------------------------------
->2. Pandas
+>2. **Pandas**
  
 - Data Visualiztion using Pandas.ipynb
 
@@ -18,11 +18,11 @@
 
 - PandasTricks.ipynb
 --------------------------------------
->3. Matplotlib
+>3. **Matplotlib**
  
 - Matplotlib Concepts.ipynb
 ------------------------------
->4. Scikitlearn
+>4. **Scikitlearn**
 
 - Cross-validation.py
 
